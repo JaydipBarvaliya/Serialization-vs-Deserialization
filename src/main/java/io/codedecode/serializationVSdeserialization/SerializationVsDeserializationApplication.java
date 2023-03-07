@@ -66,9 +66,5 @@ public class SerializationVsDeserializationApplication {
 
         externalFileInputStream.close();
         externalObjectInputStream.close();
-
-
-
-
     }
 }
